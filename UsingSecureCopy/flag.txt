@@ -1,0 +1,2 @@
+scp -P 45039 stevej@ctf.mwales.net:/home/stevej/bills_selfie.jpg /workspaces/CompSciClub24-25/UsingSecureCopy/ 
+wildcat{steve_jobs_smells}

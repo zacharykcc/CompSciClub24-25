@@ -1,0 +1,216 @@
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named taters
+Enter the password:
+taters:are easy to eat
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named yermom
+Enter the password:
+yermom:so fat, she has 2 zip codes
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named flag
+Enter the password:
+flag:doh, i forgot which one of these secrets has it, whoops!
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named flag2
+Enter the password:
+flag2:nope, not this one
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named high_brow
+Enter the password:
+high_brow:I told my wife she was drawing her eyebrows too high. She looked surprised.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named spooky
+Enter the password:
+spooky:Why don't skeletons fight each other? They don't have the guts.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named so_punny
+Enter the password:
+so_punny:I used to play piano by ear, but now I use my hands.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named scary_facts
+Enter the password:
+scary_facts:Why did the scarecrow win an award? Because he was outstanding in his field!
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named hard_hat
+Enter the password:
+hard_hat:I would tell you a construction pun, but I’m still working on it.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named it_floats
+Enter the password:
+it_floats:I’m reading a book on anti-gravity. It’s impossible to put down!
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named cheesy
+Enter the password:
+cheesy:Did you hear about the cheese factory that exploded? There was nothing left but de-brie.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named gimme_a_break
+Enter the password:
+gimme_a_break:I told my computer I needed a break, and now it won’t stop sending me Kit-Kat ads.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named wut
+Enter the password:
+wut:I only know 25 letters of the alphabet. I don’t know Y.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named lance_armstrong
+Enter the password:
+lance_armstrong:Why did the bicycle fall over? It was two-tired!
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named dark_mode
+Enter the password:
+dark_mode:Why do programmers prefer dark mode? Because light attracts bugs.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named counting
+Enter the password:
+counting:There are 10 types of people in the world: those who understand binary and those who don't.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named not_heavy
+Enter the password:
+not_heavy:A photon checks into a hotel and is asked if it needs help with its luggage. It says, "No, I'm traveling light."
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named also_not_heavy
+Enter the password:
+also_not_heavy:Why can't you trust an atom? Because they make up everything!
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named network
+Enter the password:
+network:I’d tell you a UDP joke, but you might not get it.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named how_will_i_tip
+Enter the password:
+how_will_i_tip:A neutron walks into a bar and asks, "How much for a drink?" The bartender replies, "For you, no charge."
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named groan
+Enter the password:
+groan:Why was the equal sign so humble? Because it knew it wasn't less than or greater than anyone else.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named for_neil_degrasse_tyson
+Enter the password:
+for_neil_degrasse_tyson:How do you organize a space party? You planet.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named roast_jerdon
+Enter the password:
+roast_jerdon:Never trust a math teacher holding graph paper. They’re definitely plotting something.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named born_in_test_tube_probably
+Enter the password:
+born_in_test_tube_probably:What do you call an educated tube? A graduated cylinder.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named bombastic
+Enter the password:
+bombastic:What’s a physicist’s favorite food? Fission chips.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named no_alcholol_plz
+Enter the password:
+no_alcholol_plz:How does a computer get drunk? It takes screenshots.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named integral_joke
+Enter the password:
+integral_joke:Why was the function afraid of the derivative? It heard it was going to be negative.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named software_cm_tip
+Enter the password:
+software_cm_tip:wildcat{git_good_n00b}
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named why_we_close_windows_too
+Enter the password:
+why_we_close_windows_too:Why don’t programmers like nature? It has too many bugs.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named drop_tables
+Enter the password:
+drop_tables:A SQL query walks into a bar, walks up to two tables, and asks, “Can I join you?”
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named bio
+Enter the password:
+bio:What did the DNA say to the other DNA? “Do these genes make me look fat?”
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named transparency
+Enter the password:
+transparency:Why are ghosts bad at lying? Because you can see right through them.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named tangential
+Enter the password:
+tangential:Parallel lines have so much in common. It’s a shame they’ll never meet.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named go_buy_an_fpga
+Enter the password:
+go_buy_an_fpga:How many programmers does it take to change a light bulb? None, that’s a hardware issue.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named yummy
+Enter the password:
+yummy:Why did the hacker break into the bakery? Because they heard there were cookies inside.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named no_sleep
+Enter the password:
+no_sleep:Why do hackers prefer to code at night? Because the night owls can catch the bugs.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named more_caffeine_please
+Enter the password:
+more_caffeine_please:What's a hacker's favorite type of tea? URL grey.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named dig_is_for_network_admins_though
+Enter the password:
+dig_is_for_network_admins_though:Why did the hacker become a gardener? They wanted to find some root access.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named or_smash_it
+Enter the password:
+or_smash_it:How does a hacker fix a broken keyboard? They put it through a debug process.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named chat_gpt_failed_us_here
+Enter the password:
+chat_gpt_failed_us_here:Why do hackers love their coffee? Because it’s always strong and never decaffeinated.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named actually_not_that_good
+Enter the password:
+actually_not_that_good:A hacker's favorite dessert? Raspberry Pi(e).
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named git rekt
+Enter the password:
+git rekt:Why did the hacker stay away from relationships? They were afraid of commitment (phobia).
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named also_called_stealing
+Enter the password:
+also_called_stealing:How do hackers pay for things at the store? With crypto-currency.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named plaintext
+Enter the password:
+plaintext:Why don't hackers ever use paper? They prefer everything encrypted.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named or_not_cellebrite
+Enter the password:
+or_not_cellebrite:How do hackers celebrate a successful hack? They throw a BYOD party—Bring Your Own Device.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named chicfila_closed_on_sundays
+Enter the password:
+chicfila_closed_on_sundays:Why did the hacker cross the road? To bypass the firewall.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named dog_gone_it
+Enter the password:
+dog_gone_it:What did the hacker name his dog? Malware-icious.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named had_to_use_cm_tool
+Enter the password:
+had_to_use_cm_tool:Why are hackers good at chess? They’re experts at checking (and avoiding checkmates).
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named password
+Enter the password:
+password:How do hackers prefer their eggs? Over-easy, just like their passwords.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named we_love_hashmaps
+Enter the password:
+we_love_hashmaps:Why don’t hackers use maps? They always find their own routes (roots).
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named smells
+Enter the password:
+smells:Why did the hacker avoid the seafood restaurant? They heard there were phishing scams going on.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named linux
+Enter the password:
+linux:What does a hacker call a device that can’t be hacked? A challenge.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named wheres_johnny
+Enter the password:
+wheres_johnny:What’s a hacker’s favorite game? Hide and SQL.
+Vault Path is: /root/vault_data.txt
+Searching vault for secret named diet_stuff
+Enter the password:
+diet_stuff:Why do hackers always succeed in break-ins? Because they take everything one byte at a time.

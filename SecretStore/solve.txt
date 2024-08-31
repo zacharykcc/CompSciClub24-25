@@ -1,0 +1,73 @@
+ssh -i /workspaces/CompSciClub24-25/SecretStore/linus_t_ssh_keypair -p 45039 linust@ctf.mwales.net
+
+password: minixMan386
+
+
+
+
+
+#!/bin/bash
+
+# List of arguments to pass to the command
+arguments=(
+    "taters"
+    "yermom"
+    "flag"
+    "flag2"
+    "high_brow"
+    "spooky"
+    "so_punny"
+    "scary_facts"
+    "hard_hat"
+    "it_floats"
+    "cheesy"
+    "gimme_a_break"
+    "wut"
+    "lance_armstrong"
+    "dark_mode"
+    "counting"
+    "not_heavy"
+    "also_not_heavy"
+    "network"
+    "how_will_i_tip"
+    "groan"
+    "for_neil_degrasse_tyson"
+    "roast_jerdon"
+    "born_in_test_tube_probably"
+    "bombastic"
+    "no_alcholol_plz"
+    "integral_joke"
+    "software_cm_tip"
+    "why_we_close_windows_too"
+    "drop_tables"
+    "bio"
+    "transparency"
+    "tangential"
+    "go_buy_an_fpga"
+    "yummy"
+    "no_sleep"
+    "more_caffeine_please"
+    "dig_is_for_network_admins_though"
+    "or_smash_it"
+    "chat_gpt_failed_us_here"
+    "actually_not_that_good"
+    "git rekt"
+    "also_called_stealing"
+    "plaintext"
+    "or_not_cellebrite"
+    "chicfila_closed_on_sundays"
+    "dog_gone_it"
+    "had_to_use_cm_tool"
+    "password"
+    "we_love_hashmaps"
+    "smells"
+    "linux"
+    "wheres_johnny"
+    "diet_stuff"
+)
+
+# Loop through each argument and run the command with the input
+for arg in "${arguments[@]}"
+do
+    secret_store open "$arg" <<< "minixMan386"
+done
