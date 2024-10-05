@@ -1,0 +1,3 @@
+Mike has stored some NES ROMs on the server in his home directory.  But one of
+the ROMs isn't a real NES game from back in the day.  Copy this special ROM
+and see if it reveals any secrets when we play it...

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sshpass -p dnddude ssh -o StrictHostKeyChecking=no mike@127.0.0.1 ./secure_dice
+

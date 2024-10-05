@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import random
+import sys 
+
+
+roll_log = open("roll.log", "a")
+
+if (len(sys.argv) <= 1):
+	# If no dice specified, roll 6-sided dice
+	dice_to_roll = 6
+else:
+	dice_to_roll = int(sys.argv[1])
+
+if (dice_to_roll <= 0):
+	print(f"Can't roll a {dice_to_roll} sided dic")
+	roll_log.write(f"Can't roll a {dice_to_roll} sided die\n")
+	roll_log.close()
+	sys.exit(1)
+
+print(f"Rolling a {dice_to_roll} sided die")
+
+roll = random.randint(1, dice_to_roll) 
+
+
+print(f"You rolled a {roll}")
+
+roll_log.write(f"Rolled a {roll} on a {dice_to_roll} sided dice\n")
+roll_log.close()
+
