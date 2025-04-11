@@ -39211,6 +39211,5 @@ d_kid b     ruh fit_check dr   ip ipad_kid stan drip i_oo     p cooked
 """
 t={'0': 'rizz', '1': 'skibidi', '2': 'gyatt', '3': 'fanum_tax', '4': 'mewing', '5': 'looxmax', '6': 'only_in_ohio', '7': 'baby_gronk', '8': 'livvy_dunne', '9': 'duke_dennis', 'a': 'big_yikes', 'b': 'bruh', 'c': 'bussin', 'd': 'cap', 'e': 'caught_in_4k', 'f': 'clapback', 'g': 'drip', 'h': 'erm_what_the_sigma', 'i': 'fit_check', 'j': 'flex', 'k': 'girl_boss', 'l': 'glow_up', 'm': 'gucci', 'n': 'glizzy', 'o': 'i_oop', 'p': 'ipad_kid', 'q': 'not_the_mosquito_again', 'r': 'main_character', 's': 'moots', 't': 'metal_pipe_falling', 'u': 'ok_boomer', 'v': 'pick-me', 'w': 'roman_empire', 'x': 'secure_the_bag', 'y': 'simp', 'z': 'situationship', 'A': 'slaps', 'B': 'slay', 'C': 'stan', 'D': 'uno_reverse', 'E': 'vibe_check', 'F': 'wig', 'G': 'grindset', 'H': 'freddy_fazbear', 'I': 'a_whole_bunch_of_turbulence', 'J': 'the_ocky_way', 'K': 'axel_in_harlem', 'L': 'aiden_ross', 'M': 'goated_with_the_sauce', 'N': 'uncanny', 'O': 'chungus', 'P': 'pizza_tower', 'Q': 'poggers', 'R': 'thug_shaker', 'S': 'ratio', 'T': 'all_my_fellas', 'U': 'gigachad', 'V': 'backrooms', 'W': 'gta_6', 'X': 'redpilled', 'Y': 'kino', 'Z': 'f_in_the_chat', '+': '360_no_scope', '/': 'buggin', '=': 'cooked'}
 y=x.replace(" ","").replace("\n","")
-for a,b in t.items(): 
-  y=y.replace(b,a)
-#exec(base64.b64decode(y))
+for a,b in t.items(): y=y.replace(b,a)
+print((base64.b64decode(y)))
